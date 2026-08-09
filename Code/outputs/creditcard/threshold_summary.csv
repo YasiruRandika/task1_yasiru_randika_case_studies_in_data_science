@@ -1,0 +1,3 @@
+model,recall_target,precision_at_target
+Logistic Regression,0.9,0.0611541774332472
+Random Forest,0.9,0.09439397296698426
